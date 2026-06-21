@@ -1,6 +1,6 @@
 ---
 title: "Balanço de Pagamentos  - Brasil (2000–2020)"
-author: "Análise de Dados"
+author: "Manoel Alves & Suzy Oliveira"
 date: today
 format:
   html:
